@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning React JS 
 - 💞️ I’m looking to collaborate on projects that challange to learn new things
 - 📫 How to reach me, you can send me an email to jmatiimartinez@gmail.com, I'd be glad to answer :))
-- <img src="https://github-readme-stats.vercel.app/api?username=joelmatiasduran">
+- <img src="https://github-readme-stats.vercel.app/api?username=joelmatiasduran&show_icons=true&theme=dracula">
