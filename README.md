@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @joelmatiasduran
-- 👀 I’m interested in Full Stack Engineering, and UX/UI Design
-- 🌱 I’m currently learning Python, Node js with TypeScript
-- 💞️ I’m looking to collaborate on projects that challange me to learn new things
-- 📫 How to reach me, you can send me an email to jmatiimartinez@gmail.com, I'd be glad to answer :))
+👋  Hi, I’m @joelmatiasduran
+
+ 👀 I’m interested in Full Stack Engineering, and UX/UI Design
+
+ 🌱 I’m currently learning Python, Node js with TypeScript
+
+ 💞️ I’m looking to collaborate on projects that challange me to learn new things
+
+ 📫 How to reach me, you can send me an email to jmatiimartinez@gmail.com, I'd be glad to answer :))
+
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=joelmatiasduran&show_icons=true&theme=dracula">
 <br />
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/1oKjCzdnatyyMxkdxF/giphy.gif" width="250" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/1oKjCzdnatyyMxkdxF/giphy.gif" width="450" height="500" />
   
 ### 👨‍💻 Languages and Tools
 
