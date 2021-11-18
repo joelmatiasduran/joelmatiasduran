@@ -6,7 +6,7 @@
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=joelmatiasduran&show_icons=true&theme=dracula">
 <br />
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/1oKjCzdnatyyMxkdxF/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/1oKjCzdnatyyMxkdxF/giphy.gif" width="250" />
   
 ### 👨‍💻 Languages and Tools
 
