@@ -2,8 +2,6 @@
 
  👀 I’m interested in Full Stack Engineering, and UX/UI Design
 
- 🌱 I’m currently learning Python, Node js with TypeScript
-
  💞️ I’m looking to collaborate on projects that challange me to learn new things
 
  📫 How to reach me, you can send me an email to jmatiimartinez@gmail.com, I'd be glad to answer :))
