@@ -7,7 +7,8 @@
  📫 How to reach me, you can send me an email to jmatiimartinez@gmail.com, I'd be glad to answer :))
 
 <br />
-<img src="https://github-readme-stats.vercel.app/api?username=joelmatiasduran&show_icons=true&theme=dracula">
+
+<!--- <img src="https://github-readme-stats.vercel.app/api?username=joelmatiasduran&show_icons=true&theme=dracula"> -->
 <br />
   <img align="right" alt="GIF" src="https://media.giphy.com/media/1oKjCzdnatyyMxkdxF/giphy.gif" width="450" height="500" />
   
