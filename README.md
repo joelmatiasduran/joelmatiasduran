@@ -30,6 +30,4 @@
 [![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/joelmatiasduran)](https://github.com/joelmatiasduran)
 [![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=https://github.com/joelmatiasduran)](https://github.com/joelmatiasduran)
 [![MobX](https://img.shields.io/badge/-MobX-gray?style=flat&logo=mobx&link=https://github.com/joelmatiasduran)](https://github.com/joelmatiasduran) 
-
-<br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelmatiasduran&layout=compact&card_width=250&langs_count=8&hide_border=true&theme=dracula" height="195rem" />
