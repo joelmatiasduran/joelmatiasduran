@@ -22,7 +22,7 @@
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/joelmatiasduran)](https://github.com/joelmatiasduran) 
 
 [![Electron](https://img.shields.io/badge/-Electron-gray?style=flat&logo=electron&link=https://github.com/joelmatiasduran)](https://github.com/joelmatiasduran) 
-[![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/joelmatiasduran)](https://github.com/joelmatiasduran) 
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat&logo=tailwindcss&link=https://github.com/joelmatiasduran)](https://github.com/joelmatiasduran) 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/joelmatiasduran)](https://github.com/joelmatiasduran) 
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/joelmatiasduran)](https://github.com/joelmatiasduran) 
 
@@ -33,5 +33,6 @@
 
 [![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/joelmatiasduran)](https://github.com/joelmatiasduran)
 [![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=https://github.com/joelmatiasduran)](https://github.com/joelmatiasduran)
-[![MobX](https://img.shields.io/badge/-MobX-gray?style=flat&logo=mobx&link=https://github.com/joelmatiasduran)](https://github.com/joelmatiasduran) 
+[![Redux](https://img.shields.io/badge/-Redux-purple?style=flat&logo=Redux&link=https://github.com/joelmatiasduran)](https://github.com/joelmatiasduran) 
+[![GraphQL](https://img.shields.io/badge/-GraphQL-orange?style=flat&logo=GRAPHql&link=https://github.com/joelmatiasduran)](https://github.com/joelmatiasduran)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelmatiasduran&layout=compact&card_width=250&langs_count=8&hide_border=true&theme=dracula" height="195rem" />
