@@ -1,4 +1,4 @@
-👋  Hi, I’m @joelmatiasduran
+### 👋  Hi, I’m @joelmatiasduran
 
  👀 I’m interested in Full Stack Engineering, and UX/UI Design
 
