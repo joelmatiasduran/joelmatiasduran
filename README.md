@@ -1,6 +1,6 @@
 ### 👋  Hi, I’m @joelmatiasduran
 
- 👀 I’m interested in Full Stack Engineering, and UX/UI Design
+ 👀 I’m a Full Stack Engineer, and passionate about UX/UI Design, I find joy building efficient and beautiful webapps/apps
 
  💞️ I’m looking to collaborate on projects that challange me to learn new things
 
