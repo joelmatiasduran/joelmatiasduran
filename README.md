@@ -2,7 +2,7 @@
 
  👀 I’m a Full Stack Engineer, and passionate about UX/UI Design, I find joy building efficient and beautiful webapps/apps
 
- 💞️ I’m looking to collaborate on projects that challange me to learn new things
+ 💞️ I’m looking to collaborate on projects that challenge me to learn new things
 
  📫 How to reach me, you can send me an email to jmatiimartinez@gmail.com, I'd be glad to answer :))
 
